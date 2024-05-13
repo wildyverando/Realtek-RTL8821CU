@@ -10,7 +10,7 @@ git clone https://github.com/wildyverando/Realtek-RTL8821CU.git
 cd Realtek-RTL8821CU
 make -j $(nproc)
 make install
-```-
+```
 then reboot your device
 
 # detect as rtl8188gu and cdrom mode ?
